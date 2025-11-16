@@ -12,4 +12,4 @@ enjoy
 
 -Ewi
 
-![Viva la france](./src/hangarprancis.png)
+![Viva la france](./src/hangarprancis.PNG)
